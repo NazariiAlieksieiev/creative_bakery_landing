@@ -10,8 +10,8 @@ The landing page was developed using the following technologies:
 - Responsive Design: The landing page is designed to be fully responsive, ensuring optimal viewing and interaction across various devices and screen sizes.
 - BEM: BEM (Block, Element, Modifier) methodology for organizing and naming CSS classes. By adopting BEM, the project ensures consistency and clarity in the styling implementation.
 
-[DEMO](https://nazariialieksieiev.github.io/creative_bakery_landing/)
-[Figma Mockup](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?type=design&node-id=11342-1117&t=SASqffEZB9wLmUUg-0)
+## [DEMO](https://nazariialieksieiev.github.io/creative_bakery_landing/)
+## [Figma Mockup](https://www.figma.com/file/dY3izAm0Vspsmra4lQWQIP/Bakerlab_FE-students?type=design&node-id=11342-1117&t=SASqffEZB9wLmUUg-0)
 
 # Key Features
 - Variety of Cakes: The landing page showcases a variety of cakes, including oatmeal cookies with golden raisins, orange zest, and chocolate chips, as well as chocolate biscuit coffee cake topped with buttercream and powder.
